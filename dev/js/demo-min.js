@@ -1,1 +1,1 @@
-import{gsap}from"gsap";console.log(gsap);
+import{gsap}from"gsap";gsap.to(".red-box",{duration:2,alpha:0});
